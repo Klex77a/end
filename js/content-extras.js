@@ -11,7 +11,7 @@ window.BOOK.meta = {
   title: "The Thinking Machine Atlas",
   subtitle: "A ten-station journey from \"What is AI?\" to neural networks, generative AI and responsible intelligence",
   course: "AI Fundamentals (AIF1303) · QAIRU · 2026–2027, Trimester 1",
-  team: ["Mukhammedzhan Kuanysh"],
+  team: ["Kuanysh Mukhamedjan", "Khussainov Marat"],
   description:
     "An interactive companion to the AI Fundamentals course. Travel with Qai, a curious apprentice agent, through ten stations — agents, search, optimization, games, decisions over time, probability, hidden states, machine learning, neural networks and generative AI. Every chapter explains the ideas in plain language, walks through the algorithms step by step, lets you experiment with live diagrams and ends with a quiz."
 };
